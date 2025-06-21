@@ -35,7 +35,7 @@
     <tr>
       <td>
         <p align="center"> AI 전자책 만들기 프로젝트 결과물 </p>
-        <a href="[https://www.youtube.com/shorts/dMa6E_kW3yg]" title="AI 전자책 프로젝트">
+        <a href="https://www.youtube.com/shorts/dMa6E_kW3yg" title="AI 전자책 프로젝트">
           <img align="center" src="https://github.com/user-attachments/assets/4f7f3de8-8d65-4b09-a903-4848c7e8d1ce" width="300" >
         </a>
       </td>
