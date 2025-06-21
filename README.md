@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb975b81-f4d9-4b56-935c-fb69bc5f2df3)# 📚 AI 전자책 프로젝트: 생성형 AI를 활용한 동화책 만들기
+# 📚 AI 전자책 프로젝트: 생성형 AI를 활용한 동화책 만들기
 
 ## 📌 과목 정보
 - **과목명**: 인공지능과 영상
