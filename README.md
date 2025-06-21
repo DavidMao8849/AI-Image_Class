@@ -1,4 +1,4 @@
-# 📚 AI 전자책 프로젝트: 생성형 AI를 활용한 동화책 만들기
+![image](https://github.com/user-attachments/assets/bb975b81-f4d9-4b56-935c-fb69bc5f2df3)# 📚 AI 전자책 프로젝트: 생성형 AI를 활용한 동화책 만들기
 
 ## 📌 과목 정보
 - **과목명**: 인공지능과 영상
@@ -30,7 +30,18 @@
    - 이미지, 영상, 음성을 CANVA를 통해 통합 구성
 
 ## 📁 결과물 예시
-> 결과물은 발표 시 데모로 제공되었으며, 일부 샘플은 저장소 내 `/output/` 폴더에 포함될 수 있음
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <p align="center"> AI 전자책 만들기 프로젝트 결과물 </p>
+        <a href="[https://youtube.com/shorts/dMa6E_kW3yg?feature=share]()" title="AI 전자책 프로젝트">
+          <img align="center" src="https://github.com/user-attachments/assets/4f7f3de8-8d65-4b09-a903-4848c7e8d1ce" width="300" >
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🧩 느낀점
 - 프롬프트 엔지니어링의 중요성과 생성형 AI의 한계(Hallucination)를 체험
