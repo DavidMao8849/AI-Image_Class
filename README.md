@@ -52,5 +52,5 @@
 - [투명 드래곤 나무위키](https://namu.wiki/w/%ED%88%AC%EB%AA%85%EB%93%9C%EB%9E%98%EA%B3%A4)
 - 사용 도구: ChatGPT, Stable Diffusion, Kling AI, TypeCast, Canva
 - 발표 자료:
-- 결과 보고서:[`결과보고서.pdf`](docs/프로젝트_결과보고서_요약본(양식)_인공지능과 영상2.pdf)
+- 결과 보고서:[`결과보고서.pdf`](docs/프로젝트_결과보고서.pdf)
 ---
